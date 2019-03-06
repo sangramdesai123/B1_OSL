@@ -1,0 +1,19 @@
+Python is the best programming language.
+
+
+
+print("Hello World")
+
+is always better than
+
+import java.util.*;
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+    
+        System.out.println("Hello World");
+    }
+
+}
+
