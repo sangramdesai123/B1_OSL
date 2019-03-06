@@ -18,5 +18,9 @@ public class HelloWorld {
 }
 
 
-no semicolon vs colon 
+
+print() vs System.out.println();
+
+input() vs sc.next();
+
 
