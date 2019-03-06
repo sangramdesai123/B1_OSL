@@ -19,9 +19,6 @@ public class HelloWorld {
 
 
 
-
-
-
 print() vs System.out.println();
 
 input() vs sc.next();
